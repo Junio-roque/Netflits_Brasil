@@ -1,4 +1,4 @@
-# Netflits_Brasi
+# Netflits_Brasil
 ## Uma copia de landin page da Nextflix
 <p>Um desafio muito dinamico com utilização de carrocel, e agrupamento de imagem.</p>
 
